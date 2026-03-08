@@ -1,0 +1,6 @@
+id,email,password,name,title,role,avatar
+1,admin@eventhub.com,admin123,Admin User,Admin • Pro,admin,AU
+2,user@eventhub.com,user123,Shivansh Kumar,Student • Free,user,SK
+3,2006akak47alokkumar@gmail.com,alok##2006,alok kumar,New Member,user,AK
+4,2006ak47alokkumar@gmail.com,alok@@@2006,alok kumar,New Member,user,AK
+5,2006ak@gmail.com,alok@@@2006,alok kumar,New Member,user,AK

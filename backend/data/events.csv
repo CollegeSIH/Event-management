@@ -1,0 +1,15 @@
+id,title,description,date
+1,Launch Party,An evening to celebrate our launch,2026-03-01
+2,Workshop,A hands-on coding workshop,2026-03-10
+3,Birthday Bash Updated,Updated description!,2026-06-15
+4,Birthday Bash Updated,Updated description!,2026-06-15
+5,Birthday Bash Updated,Updated description!,2026-06-15
+6,Birthday Bash Updated,Updated description!,2026-06-15
+7,Birthday Bash Updated,Updated description!,2026-06-15
+9,New Event,Test,2026-09-01
+10,Test Publish,Testing publish,2026-03-10
+11,Final Test,Test,2026-03-20
+12,Test Event with Auth,Testing authentication,2026-12-01
+13,Auth Test Event,Testing JWT auth,2026-12-25
+14,Integration Test Event,Testing backend-frontend integration,2026-12-31
+15,Frontend Integration Test,Testing complete frontend-backend flow,2026-03-15
